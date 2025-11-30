@@ -1,0 +1,7 @@
+{
+  "name": "Little Learners English Board Game",
+  "description": "A digital multiplayer board game for learning English, featuring AI-powered pronunciation checks and conversation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
